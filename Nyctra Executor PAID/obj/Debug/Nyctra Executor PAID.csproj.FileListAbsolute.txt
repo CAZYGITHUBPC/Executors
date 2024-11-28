@@ -1,0 +1,15 @@
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\Nyctra Executor PAID.exe.config
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\Nyctra Executor PAID.exe
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\Nyctra Executor PAID.pdb
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra Executor PAID.csproj.AssemblyReference.cache
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra_Executor_PAID.Form1.resources
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra_Executor_PAID.Properties.Resources.resources
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra Executor PAID.csproj.GenerateResource.cache
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra Executor PAID.csproj.CoreCompileInputs.cache
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra Executor PAID.exe
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra Executor PAID.pdb
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra E.39892D16.Up2Date
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\cxapis.dll
+C:\Users\herli\Downloads\Nyctra Executor PAID\bin\Debug\FastColoredTextBox.dll
+C:\Users\herli\Downloads\Nyctra Executor PAID\obj\Debug\Nyctra_Executor_PAID.Form2.resources
